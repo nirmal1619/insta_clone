@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158187019710",
+    "project_id": "insta-clone-flutter-da5c3",
+    "storage_bucket": "insta-clone-flutter-da5c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158187019710:android:7d72ba2f322397a1f62def",
+        "android_client_info": {
+          "package_name": "com.example.riverpod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS7OCBMCWqBNpMdjVbiobf4Rbee87I79M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
